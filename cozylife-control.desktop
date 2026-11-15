@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CozyLife Control
+Comment=Control local de switches CozyLife
+Exec=/home/ipuc/Documentos/cozylife-control/.venv/bin/python /home/ipuc/Documentos/cozylife-control/app.py
+Path=/home/ipuc/Documentos/cozylife-control
+Icon=/home/ipuc/Documentos/cozylife-control/logo.png
+StartupWMClass=CozyLifeControl
+Terminal=false
+Categories=Utility;HomeAutomation;
